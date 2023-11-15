@@ -1,0 +1,3 @@
+I am trying the new CHANGELOG file so yeah here it is some changes to the project... 
+-Shoes removed from the project 
+-Micheal Jackson added to the project 

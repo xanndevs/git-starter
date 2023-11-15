@@ -3,7 +3,7 @@ Java SDK (Sürüm önemli değil)
 
 Kullanım:
 
-> java main.java
+> java Calculator.java
 
 Teşekkürler:
 -xanndev

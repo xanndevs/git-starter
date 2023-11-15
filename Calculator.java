@@ -10,7 +10,7 @@ public class Tester{
     }
 
     public double topla(double x, double y){
-        return x+y;
+        return y + x;
     }
 
     public int cikar(int x, int y){

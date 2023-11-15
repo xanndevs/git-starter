@@ -8,6 +8,11 @@ public class Tester{
     public int topla(int x, int y){
         return x+y;
     }
+
+    public double topla(double x, double y){
+        return x+y;
+    }
+
     public int cikar(int x, int y){
         return x-y;
     }

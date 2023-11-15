@@ -3,7 +3,6 @@ Java SDK (Sürüm önemli değil)
 
 Kurulum:
 
-> npm install
 > java Calculator.java
 
 Kullanım:
